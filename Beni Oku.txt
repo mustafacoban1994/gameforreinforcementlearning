@@ -1,0 +1,6 @@
+oyun.py dosyasında oyununun kullanıcı ile oynandığı halini paylaştım. Ok tuşları ile eğlenebilirsiniz.
+rl_oyun.py dosyasında ise RL algoritması ile olan halini paylaştım. 
+
+Oyun spider IDE' si kullaılarak yazılmıştır.
+Çalıştırabilmek için; tensorflow, keras, pygame kütüphaneleri doğru bir şekilde yüklenmesi gerekmektedir.
+DLL sorunu yaşamamak için bilgisayarınızda microsoft visual C++ 2015 yüklü olması gerekmektedir. Değil ise VC_redist.x64.exe dosyasını yükleyebilirsiniz.
